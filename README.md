@@ -9,7 +9,7 @@ MNIST is an open source dataset which is used for handwritten digits recognition
 
 
 ## Tensorflow
-<br/>In this test we use tensorflow, and we change the size of the convolution kernel to do 3 times.</br><br/>The size of convolution kernel are respectively 5x5, 9x9, 3x3.</br><br/>And finally the test Accuracy is 0.990, 0.988, 0.987.</br>
+<br/>In this test we use tensorflow, and we change the size of the convolution kernel to do 3 times.</br>The size of convolution kernel are respectively 5x5, 9x9, 3x3.</br>And finally the test Accuracy is 0.990, 0.988, 0.987.</br>
 
 
 ## Keras
