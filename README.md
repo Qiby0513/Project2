@@ -25,6 +25,11 @@ test2:
 
 ![avatar](https://github.com/Qiby0513/Project2/blob/main/test2.2.png)
 
-## Course Summary
+
+
+## test summary
+Through two tests, we found that the validation accuracy of convolutional neural network implemented by tensorflow was higher than that of Keras.
+
+# Course Summary
 This machine learning course is my first contact with python and many algorithms, and I learned to use GitHub and solve simple code errors. I will continue to learn relevant knowledge in the future to deepen my understanding of machine learning.
 Thanks to Peter for teaching!
